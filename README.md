@@ -1,16 +1,33 @@
-## Hi there 👋
+# xarc.dev
 
-<!--
-**xarcdotdev/xarcdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Software Engineer & Security Automation Specialist**
+- Building & securing fullstack web systems - mostly **PHP** and **SQL**, occasionally **Go**.
+- Minimal-mouse maximalist
 
-Here are some ideas to get you started:
+My workflow lives in the **terminal**, more hotkeys configured than actual tasks completed with them. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Repos
+
+- [**TaskVanguard**](https://github.com/taskvanguard/taskvanguard)  
+  A CLI & AI-powered productivity companion for TaskWarrior.
+
+- [**Hyprorbit**](https://github.com/xarcdotdev/hyprorbit)  
+  Workspace orchestration for Hyprland users with ADHD.
+
+---
+
+### Skills
+
+- Fullstack development (PHP, MySQL/MariaDB, Go)
+- Security automation
+
+---
+
+### Links
+
+- **X / Twitter:** [@xarcdev](https://x.com/xarcdev)  
+- **Website:** [xarc.dev](https://xarc.dev)
+
+---
