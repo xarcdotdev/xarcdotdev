@@ -4,8 +4,6 @@
 - Building & securing fullstack web systems - mostly **PHP** and **SQL**, occasionally **Go**.
 - Minimal-mouse maximalist
 
-My workflow lives in the **terminal**, more hotkeys configured than actual tasks completed with them. 
-
 ---
 
 ### Repos
