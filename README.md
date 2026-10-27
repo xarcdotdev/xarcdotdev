@@ -8,7 +8,7 @@
 
 ### Repos
 
-- [**MATA Monitoring Suite**](https://github.com/mata-sh/mata-dashboard)
+- [**MATA Monitoring Suite**](https://github.com/mata-sh/mata-dashboard)  
   Monitoring Dashboard with agentic workflows in mind.
 
 - [**TaskVanguard**](https://github.com/taskvanguard/taskvanguard)  
