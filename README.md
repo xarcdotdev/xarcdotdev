@@ -8,6 +8,9 @@
 
 ### Repos
 
+- [**Stak.sh - Developer Tool Trends**](https://stak.sh)  
+  Monitoring Dashboard with agentic workflows in mind.
+
 - [**MATA Monitoring Suite**](https://github.com/mata-sh/mata-dashboard)  
   Monitoring Dashboard with agentic workflows in mind.
 
@@ -16,13 +19,6 @@
 
 - [**Hyprorbit**](https://github.com/xarcdotdev/hyprorbit)  
   Workspace orchestration for Hyprland users with ADHD.
-
----
-
-### Skills
-
-- Fullstack development (PHP, MySQL/MariaDB, Go)
-- Security automation
 
 ---
 
