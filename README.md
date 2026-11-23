@@ -1,6 +1,6 @@
 # xarc.dev
 
-- **Software Engineer & Security Automation Specialist**
+- **Software Engineer & Security Automation**
 - Building & securing fullstack web systems - mostly **PHP** and **SQL**, occasionally **Go**.
 - Minimal-mouse maximalist
 
