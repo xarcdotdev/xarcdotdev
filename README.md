@@ -4,6 +4,8 @@
 - Building & securing fullstack web systems - mostly **PHP** and **SQL**, occasionally **Go**.
 - Minimal-mouse maximalist
 
+[![@xarc on stak.sh](https://stak.sh/card/@xarc.svg)](https://stak.sh/@xarc)
+
 ---
 
 ### Repos
